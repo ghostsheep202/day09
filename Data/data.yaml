@@ -1,0 +1,46 @@
+#name: "lili"
+#Name: "lili"
+#info1: {"name":"lili","age":"18"}
+
+
+#info2:
+#  name: "lili"
+#  age: "18"
+#------列表------
+#data:
+#  - "name": "nana"
+#  - "name": "张三"
+#
+#
+#data2:
+#  - "11"
+#  - "22"
+
+#----字符串----
+#Name: "haha"
+#
+#name: hehe
+#
+#int: 123
+#
+#float: 1.11
+#
+#bool01: true
+#
+#bool02: False
+#------空-----
+#value: ~
+#
+#value2: Null
+#
+#value3: null
+#
+#value4:
+#
+#value5: None
+
+#----日期类型----
+#data1: 2020-02-02
+#data2: 2020-11-11 11:11:11
+#data3: 2020-11-11
+
